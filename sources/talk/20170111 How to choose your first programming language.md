@@ -1,3 +1,4 @@
+Translating by Hymantin
 How to choose your first programming language
 ============================================================[
 
